@@ -13,6 +13,7 @@ Jump: 2 steps over an opponent’s token.
 Win Condition: Move all tokens to the opposite edge.
 
 Time Complexity: O(bᵈ) (Branching factor *b=6*, depth *d=3*).
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚙️ Tech Stack
